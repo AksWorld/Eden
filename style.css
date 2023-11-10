@@ -1,0 +1,18 @@
+#D_Header{
+    background-color:#0001378d;
+    color:white;
+}
+#note
+{
+    box-shadow:5px 5px 5px grey;
+    border-width: 10px;
+    border-color: red;
+    padding:20px;
+    width:100%;
+    text-align: center;
+}
+.copyright_footer{
+    position: fixed;
+    background-color: grey;
+    bottom:0;
+}
